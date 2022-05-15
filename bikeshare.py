@@ -1,7 +1,8 @@
+# Importing necessary libraries
 import time
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
+import pandas as pd     # for data manipulation
+import numpy as np      # for fast mathematical computation
+import matplotlib.pyplot as plt     # for data visualization
 import seaborn as sns
 
 CITY_DATA = { 'chicago': 'chicago.csv',
@@ -223,6 +224,7 @@ def missing_col(df):
     plt.show()
     
 def main():
+    """Combines all functions together to give meaningful output"""
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
