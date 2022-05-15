@@ -13,5 +13,5 @@ A statistical model to help analyze data of bike in 3 cities in the United State
 Include the files used
 
 ### Credits
-
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted. and it is on this not that I'd like to appreciate my sisters: Adebisi, Adefunke and Adedoja. You are my inspiration.
 
