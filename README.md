@@ -7,7 +7,7 @@
 Bike Sharing Project
 
 ### Description
-
+A statistical model to help analyze data of bike in 3 cities in the United States.
 
 ### Files used
 Include the files used
