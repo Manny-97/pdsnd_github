@@ -1,7 +1,8 @@
+# Importing necessary libraries
 import time
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
+import pandas as pd     # for data manipulation
+import numpy as np      # for fast mathematical computation
+import matplotlib.pyplot as plt     # for data visualization
 import seaborn as sns
 
 CITY_DATA = { 'chicago': 'chicago.csv',
