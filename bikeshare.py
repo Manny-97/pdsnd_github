@@ -224,6 +224,7 @@ def missing_col(df):
     plt.show()
     
 def main():
+    """Combines all functions together to give meaningful output"""
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
